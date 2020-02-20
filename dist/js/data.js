@@ -153,7 +153,7 @@ data = {
             "pub_year": 2019,
             "pub_title": "CloudTraceViz: A Visualization Tool for Tracing Dynamic Usage of Cloud Computing Resources",
             "pub_author": "<mark>Vinh T. Nguyen </mark>, Tommy Dang.",
-            "pub_img": "img/portfolio/SC2019CloudTraceViz.png",
+            "pub_img": "img/portfolio/SC2019CloudTraceViz.PNG",
             "pub_doi": "",
             "pub_icons": [
                 {

@@ -409,8 +409,8 @@ data = {
                 "pub_icons": [
                     {
                         "icon_code": "fa fa-globe",
-                        "icon_url": "http://www.bioinformatics.biostec.org/",
-                        "icon_alt": "Workshop website"
+                        "icon_url": "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0009185902460252",
+                        "icon_alt": "SciTePress"
                     }
 
                 ],

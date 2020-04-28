@@ -314,9 +314,9 @@ data = {
                 "pub_doi": "10.2312/envirvis.20181135",
                 "pub_icons": [
                     {
-                        "icon_code": "fas fa-quote-right",
-                        "icon_url": "dist/BibTex/saturatedthickness.html",
-                        "icon_alt": "BibTex"
+                        "icon_code": "fa fa-globe",
+                        "icon_url": "https://par.nsf.gov/biblio/10128843",
+                        "icon_alt": "NSF Research"
                     },
                     {
                         "icon_code": "ai ai-acm",

@@ -296,8 +296,8 @@ data = {
                     },
                     {
                         "icon_code": "fa fa-globe",
-                        "icon_url": "https://alex-nguyen.github.io/MalViz",
-                        "icon_alt": "Demo"
+                        "icon_url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1516636",
+                        "icon_alt": "NSF Research"
                     }
                 ],
                 "pub_proceeding": "ISSTA 2018 Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis",

@@ -595,7 +595,15 @@
   "reviewer": [
     {
       "conf_year_reviewed": 2020,
-      "conf_short": "Nordichi 2020",
+      "conf_short": "ISMAR 2020 (#3)",
+      "conf_long": "The 19 IEEE International Symposium on Mixed and Augmented Reality",
+      "conf_date": "9-13th November, 2020",
+      "conf_venue": "Brazil",
+      "conf_papers": 3
+    },
+    {
+      "conf_year_reviewed": 2020,
+      "conf_short": "Nordichi 2020 (#2)",
       "conf_long": "Nordic forum for Human-Computer Interaction",
       "conf_date": "October 25 - 29, 2020",
       "conf_venue": "Estonia",
@@ -603,7 +611,7 @@
     },
     {
       "conf_year_reviewed": 2019,
-      "conf_short": "JISE",
+      "conf_short": "JISE (#1)",
       "conf_long": "Journal of Information Science and Engineering",
       "conf_date": "No",
       "conf_venue": "Journal",
@@ -611,7 +619,7 @@
     },
     {
       "conf_year_reviewed": 2019,
-      "conf_short": "VINCI 2019",
+      "conf_short": "VINCI 2019 (#4)",
       "conf_long": "The 12th International Symposium on Visual Information Communication and Interaction (VINCI 2019)",
       "conf_date": "20-22 Sept. 2019",
       "conf_venue": "China",
@@ -619,7 +627,7 @@
     },
     {
       "conf_year_reviewed": 2019,
-      "conf_short": "ISMAR 2019",
+      "conf_short": "ISMAR 2019 (#2)",
       "conf_long": "The 18th IEEE International Symposium on Mixed and Augmented Reality",
       "conf_date": "14-18th October, 2019",
       "conf_venue": "China",
@@ -627,7 +635,7 @@
     },
     {
       "conf_year_reviewed": 2019,
-      "conf_short": "CSAE 2019",
+      "conf_short": "CSAE 2019 (#1)",
       "conf_long": "The 3rd International Conference on Computer Science and Application Engineering",
       "conf_date": "October 22-24, 2019",
       "conf_venue": "China",
@@ -635,7 +643,7 @@
     },
     {
       "conf_year_reviewed": 2018,
-      "conf_short": "ICMI 2018",
+      "conf_short": "ICMI 2018 (#1)",
       "conf_long": "The 20th ACM International Conference on Multimodal Interaction",
       "conf_date": "16-20th October, 2018",
       "conf_venue": "USA",
@@ -643,7 +651,7 @@
     },
     {
       "conf_year_reviewed": 2018,
-      "conf_short": "VizSec 2018",
+      "conf_short": "VizSec 2018 (#2)",
       "conf_long": "The 15th IEEE Symposium on Visualization for Cyber Security",
       "conf_date": "22th October, 2018",
       "conf_venue": "Germany",
@@ -651,7 +659,7 @@
     },
     {
       "conf_year_reviewed": 2018,
-      "conf_short": "Nordchi 2018",
+      "conf_short": "Nordchi 2018 (#1)",
       "conf_long": "The 10th NordiCHI Conference",
       "conf_date": "1-3rd October, 2018",
       "conf_venue": "Norway",
@@ -659,7 +667,7 @@
     },
     {
       "conf_year_reviewed": 2018,
-      "conf_short": "ISMAR 2018",
+      "conf_short": "ISMAR 2018 (#3)",
       "conf_long": "The 17th IEEE International Symposium on Mixed and Augmented Reality",
       "conf_date": "16-20th October, 2018",
       "conf_venue": "Germany",
@@ -667,7 +675,7 @@
     },
     {
       "conf_year_reviewed": 2018,
-      "conf_short": "PacificVis 2018",
+      "conf_short": "PacificVis 2018 (#1)",
       "conf_long": "The 11th IEEE Pacific Visualization Symposium",
       "conf_date": "10-13 April, 2018",
       "conf_venue": "Japan",

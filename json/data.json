@@ -603,6 +603,14 @@
     },
     {
       "conf_year_reviewed": 2020,
+      "conf_short": "AECT 2020 (#4)",
+      "conf_long": "Association for Educational Communications and Technology",
+      "conf_date": "22-23rd July, 2020",
+      "conf_venue": "USA",
+      "conf_papers": 4
+    },
+    {
+      "conf_year_reviewed": 2020,
       "conf_short": "Nordichi 2020 (#2)",
       "conf_long": "Nordic forum for Human-Computer Interaction",
       "conf_date": "October 25 - 29, 2020",

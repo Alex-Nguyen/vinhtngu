@@ -1,6 +1,25 @@
 {
   "publication": {
-    "features": [
+    "features": 
+    {
+        "pub_type": "Journal",
+        "pub_day": 2,
+        "pub_month": 6,
+        "pub_year": 2020,
+        "pub_title": "Meet the Virtual Jeju Dol Harubang—The Mixed VR/AR Application for Cultural Immersion in Korea’s Main Heritage",
+        "pub_author": "Kwanghee Jung, <mark>Vinh T. Nguyen </mark>, Diana Piscarac and Seung-Chul Yoo",
+        "pub_img": "JeJuMixedReality.png",
+        "pub_doi": "",
+        "pub_icons": [
+          {
+            "icon_code": "fas fa-book",
+            "icon_url": "https://www.mdpi.com/2220-9964/9/6/367",
+            "icon_alt": "Journal link"
+          }
+        ],
+        "pub_proceeding": "ISPRS International Journal of Geo-Information",
+        "pub_venue": "ISPRS Int. J. Geo-Inf. 2020, 9(6), 367; https://doi.org/10.3390/ijgi9060367"
+      },
       {
         "pub_type": "Journal",
         "pub_day": 29,

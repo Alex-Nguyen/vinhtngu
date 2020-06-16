@@ -615,6 +615,14 @@
   "reviewer": [
     {
       "conf_year_reviewed": 2020,
+      "conf_short": "Media Tools&Apps.",
+      "conf_long": "Journal of Multimedia Tools and Applications (Springer)",
+      "conf_date": "No",
+      "conf_venue": "Journal (IF 2.6)",
+      "conf_papers": 1
+    },
+    {
+      "conf_year_reviewed": 2020,
       "conf_short": "Scientific Progr.",
       "conf_long": "Journal of Scientific Programming",
       "conf_date": "No",

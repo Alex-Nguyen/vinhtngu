@@ -1,6 +1,25 @@
 {
   "publication": {
     "features": [
+      {
+        "pub_type": "Journal",
+        "pub_day": 25,
+        "pub_month": 6,
+        "pub_year": 2020,
+        "pub_title": "The Effectiveness of Jeju Island Mixed Reality Tourism Application: Focusing on the Moderating Role of Users' K-Culture Involvement",
+        "pub_author": "Yoo Seungchul,Jung Kwanghee, <mark>Vinh T. Nguyen </mark> and Diana Piscarac",
+        "pub_img": "ARJeju.png",
+        "pub_doi": "",
+        "pub_icons": [
+          {
+            "icon_code": "fas fa-book",
+            "icon_url": "http://www.koreascience.or.kr/journal/E1GMBY.page",
+            "icon_alt": "Journal link"
+          }
+        ],
+        "pub_proceeding": "International Journal of Advanced Culture Technology",
+        "pub_venue": "Vol.8 No.2 116-128 (2020); DOI https://doi.org/10.17703/IJACT.2020.8.2.116"
+      },
     {
         "pub_type": "Journal",
         "pub_day": 2,

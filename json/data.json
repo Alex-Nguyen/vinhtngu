@@ -36,7 +36,7 @@
             "icon_alt": "Journal link"
           }
         ],
-        "pub_proceeding": "ISPRS International Journal of Geo-Information",
+        "pub_proceeding": "ISPRS International Journal of Geo-Information <span style="color:red">(IF: 2.239)</span>",
         "pub_venue": "ISPRS Int. J. Geo-Inf. 2020, 9(6), 367; https://doi.org/10.3390/ijgi9060367"
       },
     
@@ -56,9 +56,8 @@
             "icon_alt": "Journal link"
           }
         ],
-        "pub_proceeding": "ISPRS International Journal of Geo-Information",
-        "pub_venue": "ISPRS Int. J. Geo-Inf. 2020, 9(2), 75; https://doi.org/10.3390/ijgi9020075"
-      },
+        "pub_proceeding": "ISPRS International Journal of Geo-Information <span style="color:red">(IF: 2.239)</span>",
+        "pub_venue": "ISPRS Int. J. Geo-Inf. 2020, 9(2), 75; https://doi.org/10.3390/ijgi9020075"      },
       {
         "pub_type": "Conference",
         "pub_day": 20,

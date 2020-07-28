@@ -3,6 +3,25 @@
     "features": [
       {
         "pub_type": "Journal",
+        "pub_day": 27,
+        "pub_month": 7,
+        "pub_year": 2020,
+        "pub_title": "BlocklyAR: A Visual Programming Interface for Creating Augmented Reality Experiences",
+        "pub_author": "<mark>Vinh T. Nguyen </mark>,Jung Kwanghee, and Tommy Danng",
+        "pub_img": "BlocklyAR.PNG",
+        "pub_doi": "",
+        "pub_icons": [
+          {
+            "icon_code": "fas fa-book",
+            "icon_url": "https://doi.org/10.3390/electronics9081205",
+            "icon_alt": "Journal link"
+          }
+        ],
+        "pub_proceeding": "Electronics",
+        "pub_venue": "Electronics, 2020, 9(8), 1205; DOI https://doi.org/10.3390/electronics9081205"
+      },
+      {
+        "pub_type": "Journal",
         "pub_day": 25,
         "pub_month": 6,
         "pub_year": 2020,

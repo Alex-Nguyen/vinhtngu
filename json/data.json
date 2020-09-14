@@ -441,8 +441,13 @@
         "pub_doi": "10.46354/i3m.2020.mas.019",
         "pub_icons": [
           {
+            "icon_code": "far fa-file-pdf",
+            "icon_url": "pdf/mas2020.pdf",
+            "icon_alt": "PDF"
+          },
+          {
             "icon_code": "fa fa-globe",
-            "icon_url": "https://www.cal-tek.eu/proceedings/i3m/2020/mas/019/pdf",
+            "icon_url": "https://www.cal-tek.eu/proceedings/i3m/2020/mas/",
             "icon_alt": "I3M MAS"
           }
         ],

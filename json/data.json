@@ -432,6 +432,25 @@
     "otherpubs": [
       {
         "pub_type": "Conference",
+        "pub_day": 17,
+        "pub_month": 10,
+        "pub_year": 2020,
+        "pub_title": "User as a bitter tastant: immersive experience within the binding region of a bitter taste receptor",
+        "pub_author": "Tommy Dang,  Anuththara Lokubandara,  Ngan N.V. Nguyen,  Peter C. Lai,  Vinh T. Nguyen,  Chiquito Crasto",
+        "pub_img": "MAS2020.png",
+        "pub_doi": "10.46354/i3m.2020.mas.019",
+        "pub_icons": [
+          {
+            "icon_code": "fa fa-globe",
+            "icon_url": "https://www.cal-tek.eu/proceedings/i3m/2020/mas/019/pdf",
+            "icon_alt": "I3M MAS"
+          }
+        ],
+        "pub_proceeding": "19th International Conference on Modeling & Applied Simulation",
+        "pub_venue": "Online Sep 17, 2020"
+      },
+      {
+        "pub_type": "Conference",
         "pub_day": 26,
         "pub_month": 2,
         "pub_year": 2020,
@@ -650,6 +669,30 @@
     ]
   },
   "reviewer": [
+    {
+      "conf_year_reviewed": 2020,
+      "conf_short": "J. HCI",
+      "conf_long": "Journal of Human Computer Interaction",
+      "conf_date": "No",
+      "conf_venue": "Journal",
+      "conf_papers": 1
+    },
+    {
+      "conf_year_reviewed": 2020,
+      "conf_short": "J.Vislualization.",
+      "conf_long": "Journal of Visualization (Springer)",
+      "conf_date": "No",
+      "conf_venue": "Journal",
+      "conf_papers": 1
+    },
+    {
+      "conf_year_reviewed": 2020,
+      "conf_short": "Media Tools&Apps.",
+      "conf_long": "Journal of Multimedia Tools and Applications (Springer)",
+      "conf_date": "No",
+      "conf_venue": "Journal (IF 2.6)",
+      "conf_papers": 1
+    },
     {
       "conf_year_reviewed": 2020,
       "conf_short": "Media Tools&Apps.",

@@ -671,26 +671,18 @@
   "reviewer": [
     {
       "conf_year_reviewed": 2020,
-      "conf_short": "J. HCI",
+      "conf_short": "Journal of HCI",
       "conf_long": "Journal of Human Computer Interaction",
       "conf_date": "No",
-      "conf_venue": "Journal",
+      "conf_venue": "Journal (IF 1.7)",
       "conf_papers": 1
     },
     {
       "conf_year_reviewed": 2020,
-      "conf_short": "J.Vislualization.",
+      "conf_short": "Journal of Vislualization",
       "conf_long": "Journal of Visualization (Springer)",
       "conf_date": "No",
-      "conf_venue": "Journal",
-      "conf_papers": 1
-    },
-    {
-      "conf_year_reviewed": 2020,
-      "conf_short": "Media Tools&Apps.",
-      "conf_long": "Journal of Multimedia Tools and Applications (Springer)",
-      "conf_date": "No",
-      "conf_venue": "Journal (IF 2.6)",
+      "conf_venue": "Journal (IF 0.9)",
       "conf_papers": 1
     },
     {

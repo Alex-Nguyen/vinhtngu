@@ -2,6 +2,25 @@
   "publication": {
     "features": [
       {
+        "pub_type": "Conference",
+        "pub_day": 7,
+        "pub_month": 11,
+        "pub_year": 2020,
+        "pub_title": "Virtual Reality-based logic programming environment: Infusing computing into science learning",
+        "pub_author": "Wanli Xing, <mark>Vinh T. Nguyen </mark>, Yuanlin Zhang",
+        "pub_img": "AECT.jpg",
+        "pub_doi": "",
+        "pub_icons": [
+          {
+            "icon_code": "fas fa-book",
+            "icon_url": "http://tinyurl.com/y4ngw5ow",
+            "icon_alt": "Conference link"
+          }
+        ],
+        "pub_proceeding": "Towards Culturally-Situated Learning Design and Research",
+        "pub_venue": ""
+      },
+      {
         "pub_type": "Journal",
         "pub_day": 27,
         "pub_month": 7,

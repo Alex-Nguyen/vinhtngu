@@ -58,7 +58,7 @@
         "pub_proceeding": "International Journal of Advanced Culture Technology 8.2 (2020): 116-128",
         "pub_venue": "DOI: https://doi.org/10.17703/IJACT.2020.8.2.116"
       },
-    {
+      {
         "pub_type": "Journal",
         "pub_day": 2,
         "pub_month": 6,
@@ -77,7 +77,6 @@
         "pub_proceeding": "ISPRS Int. J. Geo-Inf. 2020, 9(6), 367; https://doi.org/10.3390/ijgi9060367",
         "pub_venue": ""
       },
-    
       {
         "pub_type": "Journal",
         "pub_day": 29,
@@ -95,7 +94,8 @@
           }
         ],
         "pub_proceeding": "ISPRS Int. J. Geo-Inf. 2020, 9(2), 75; https://doi.org/10.3390/ijgi9020075",
-        "pub_venue": ""      },
+        "pub_venue": ""
+      },
       {
         "pub_type": "Conference",
         "pub_day": 20,
@@ -260,7 +260,6 @@
         "pub_img": "VRJournal.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "far fa-file-pdf",
             "icon_url": "pdf/S1793351X19400154.pdf",
@@ -275,7 +274,6 @@
         "pub_proceeding": "International Journal of Semantic Computing",
         "pub_venue": "Vol. 13, No. 03, pp. 343-366 (2019) DOI:10.1142/S1793351X19400154"
       },
-
       {
         "pub_type": "Workshop Paper",
         "pub_day": 10,
@@ -286,7 +284,6 @@
         "pub_img": "UFOTracker.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8622418",
@@ -306,7 +303,6 @@
         "pub_proceeding": "The 3rd International Workshop on Application of Big Data for Computational Social Science",
         "pub_venue": "Seattle, WA, USA — December 10 - 12, 2018. DOI: 10.1109/BigData.2018.8622418"
       },
-
       {
         "pub_type": "Conference Paper",
         "pub_day": 11,
@@ -317,7 +313,6 @@
         "pub_img": "AIVR2018.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8613629",
@@ -337,7 +332,6 @@
         "pub_img": "ISSTA2018.png",
         "pub_doi": "10.1145/3213846.3229501",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-acm",
             "icon_url": "https://dl.acm.org/citation.cfm?id=3229501",
@@ -401,7 +395,6 @@
         "pub_proceeding": "ENVIRVIS 2018 Proceedings of the Visualization in Environmental Sciences 2018.",
         "pub_venue": "Brno, Czech Republic — June 4 - 8, 2018."
       },
-
       {
         "pub_type": "Workshop",
         "pub_day": 9,
@@ -412,7 +405,6 @@
         "pub_img": "Vamre2017.png",
         "pub_doi": "10.1109/ISMAR-Adjunct.2017.97",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8088512/",
@@ -432,7 +424,6 @@
         "pub_img": "VDS2017.png",
         "pub_doi": "arXiv:1710.06062",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8573445",
@@ -471,7 +462,7 @@
           }
         ],
         "pub_proceeding": "19th International Conference on Modeling & Applied Simulation",
-        "pub_venue": "Online Sep 17, 2020"
+        "pub_venue": "Online Sep 17, 2020. DOI: https://doi.org/10.46354/i3m.2020.mas.019"
       },
       {
         "pub_type": "Conference",
@@ -502,7 +493,6 @@
         "pub_img": "arvo_jov_logo.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "fas fa-share-alt-square",
             "icon_url": "https://jov.arvojournals.org/article.aspx?articleid=2751034",
@@ -522,7 +512,6 @@
         "pub_img": "IoTViz.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8622375",
@@ -552,7 +541,6 @@
         "pub_img": "FinanViz.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8622097",
@@ -582,7 +570,6 @@
         "pub_img": "IoTNegViz.png",
         "pub_doi": "",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-ieee",
             "icon_url": "https://ieeexplore.ieee.org/document/8621984",
@@ -631,7 +618,6 @@
         "pub_img": "EuroVA2018.png",
         "pub_doi": "10.2312/eurova.20181104",
         "pub_icons": [
-
           {
             "icon_code": "ai ai-acm",
             "icon_url": "https://dl.acm.org/citation.cfm?id=3290755",

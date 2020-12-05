@@ -2,6 +2,25 @@
   "publication": {
     "features": [
       {
+        "pub_type": "Conference",
+        "pub_day": 10,
+        "pub_month": 12,
+        "pub_year": 2020,
+        "pub_title": "Revisiting common pitfalls in graphical representations utilizing a case-based learning approach",
+        "pub_author": "<mark>Vinh T. Nguyen </mark>,Kwanghee Jung, and Tommy Dang",
+        "pub_img": "VINCI2020.png",
+        "pub_doi": "",
+        "pub_icons": [
+          {
+            "icon_code": "ai ai-acm",
+            "icon_url": "https://dl.acm.org/doi/abs/10.1145/3430036.3430071",
+            "icon_alt": "ACM Digital library"
+          }
+        ],
+        "pub_proceeding": "Proceedings of the 13th International Symposium on Visual Information Communication and Interaction",
+        "pub_venue": "Eindhoven, Netherlands, December, 2020"
+      },
+      {
         "pub_type": "Journal",
         "pub_day": 27,
         "pub_month": 7,

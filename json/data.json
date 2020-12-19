@@ -442,25 +442,6 @@
     "otherpubs": [
       {
         "pub_type": "Conference",
-        "pub_day": 07,
-        "pub_month": 12,
-        "pub_year": 2020,
-        "pub_title": "Interface Design for HCI Classroom: From Learners' Perspective",
-        "pub_author": "Huyen N. Nguyen, Vinh T. Nguyen, and Tommy Dang",
-        "pub_img": "MAS2020.png",
-        "pub_doi": "10.1007/978-3-030-64559-5_43",
-        "pub_icons": [
-          {
-            "icon_code": "fa fa-globe",
-            "icon_url": "https://link.springer.com/chapter/10.1007/978-3-030-64559-5_43",
-            "icon_alt": "ISVC 2020"
-          }
-        ],
-        "pub_proceeding": "Advances in Visual Computing",
-        "pub_venue": "Lecture Notes in Computer Science, vol 12510. Springer, Cham. https://doi.org/10.1007/978-3-030-64559-5_43"
-      },
-      {
-        "pub_type": "Conference",
         "pub_day": 17,
         "pub_month": 10,
         "pub_year": 2020,

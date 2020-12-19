@@ -446,18 +446,18 @@
         "pub_month": 12,
         "pub_year": 2020,
         "pub_title": "Interface Design for HCI Classroom: From Learners’ Perspective",
-        "pub_author": "Nguyen H.N., Nguyen V.T., Dang T.",
+        "pub_author": "Huyen N. Nguyen, Vinh T. Nguyen, and Tommy Dang",
         "pub_img": "MAS2020.png",
         "pub_doi": "10.1007/978-3-030-64559-5_43",
         "pub_icons": [
           
           {
             "icon_code": "fa fa-globe",
-            "icon_url": "https://www.cal-tek.eu/proceedings/i3m/2020/mas/",
+            "icon_url": "https://doi.org/10.1007/978-3-030-64559-5_43",
             "icon_alt": "ISVC 2020"
           }
         ],
-        "pub_proceeding": "Advances in Visual Computing",
+        "pub_proceeding": "15th International Symposium on Visual Computing",
         "pub_venue": "https://doi.org/10.1007/978-3-030-64559-5_43"
       },
       {

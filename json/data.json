@@ -2,6 +2,25 @@
   "publication": {
     "features": [
       {
+        "pub_type": "Journal",
+        "pub_day": 25,
+        "pub_month": 1,
+        "pub_year": 2021,
+        "pub_title": "BlocklyXR: An Interactive Extended Reality Toolkit for Digital Storytelling",
+        "pub_author": "Jung Kwanghee,<mark>Vinh T. Nguyen </mark>, and Jaehoon Lee",
+        "pub_img": "BlocklyXR.PNG",
+        "pub_doi": "",
+        "pub_icons": [
+          {
+            "icon_code": "fas fa-book",
+            "icon_url": "https://doi.org/10.3390/app11031073",
+            "icon_alt": "Journal link"
+          }
+        ],
+        "pub_proceeding": "Appl. Sci. 2021, 11(3), 1073, 1205; DOI https://doi.org/10.3390/app11031073",
+        "pub_venue": ""
+      },
+      {
         "pub_type": "Conference",
         "pub_day": 10,
         "pub_month": 12,

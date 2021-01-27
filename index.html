@@ -328,5 +328,20 @@
 $('[data-toggle="tooltip"]').tooltip(), window.dataLayer = window.dataLayer || [], gtag("js", new Date), gtag("config", "UA-113374421-1")</script>
 <script async src="js/vendor.5cc6227d03b175ea3b80.bundle.js"></script>
 <script async src="js/main.8cad879c9d38e976b79c.bundle.js"></script>
+    <script>
+         $(document).ready(function(){
+            let timer =10;
+            let redirect = setInterval(()=>{
+                if(timer==0){
+                    clearInterval(redirect);
+                    window.location.href = 'http://vinhnt.ictu.edu.vn/'
+                }else{
+                    
+                    timer--;
+                }
+            },1000)
+
+    });
+    </script>
 </body>
 </html>
